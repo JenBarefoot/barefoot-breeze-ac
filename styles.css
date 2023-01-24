@@ -337,11 +337,13 @@ header {
 
 .services-container {
   text-align: center;
-  padding: 20px 20px 20px 20px;
+  
 }
 
 .services-container h4 {
   font-size: 1.8rem;
+  line-height: 1;
+  padding: 0px 20px 0px 20px;
 }
 
 

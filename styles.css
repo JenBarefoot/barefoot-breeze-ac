@@ -335,6 +335,16 @@ header {
   color: var(--clr-secondary);
 }
 
+.services-container {
+  text-align: center;
+  padding: 20px 20px 20px 20px;
+}
+
+.services-container h4 {
+  font-size: 1.8rem;
+}
+
+
 #about,
 #services,
 #tours {
